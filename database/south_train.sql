@@ -35,6 +35,7 @@ CREATE TABLE `destination` (
 
 INSERT INTO `destination` (`dest_id`, `dest_destination`) VALUES
 (1,'Mysore'),
+(2,'banglore'),
 (3,'Mandya'),
 (4,'Chennai'),
 (5,'manglore'),
